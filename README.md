@@ -13,4 +13,4 @@ Second point: If you want to use libraries and frameworks, I suggest creating a 
 Finally, I kindly ask you to preserve the copyright by not removing the license file from the project and not making any changes to it.
 
 Copyright © MMXXIV repocore Inc
-https://repocore.org
+( https://repocore.org )
